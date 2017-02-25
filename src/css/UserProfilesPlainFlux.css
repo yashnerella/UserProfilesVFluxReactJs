@@ -1,0 +1,35 @@
+.userinputstyle{
+    height: 1000px;
+    width: 300px;
+    border: 1px solid;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    color: #fefefe;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    float: left;
+    border-radius: 25px;
+}
+
+.user{
+    height: 250px;
+    width: 500px;
+    border: 1px solid;
+    background: rgba(0,0,0,0.2);
+    padding: 40px;
+    color: #fefefe;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    float: left;
+    border-radius: 15px;
+    color: black;
+}
+
+.linestyle{
+    border: 0;
+    height: 0.6px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
